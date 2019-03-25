@@ -16,3 +16,15 @@ collect video or picture content from Instagram users
 analyze video or picture content of other Instagram users
 
 collect any content from Instagram users for any paid third party use
+
+The project jarocam is written in Python 3.
+
+The primary modules used:
+nltk
+BeautifulSoup
+requests
+selenium (webdriver)
+re
+numpy 
+pandas
+emoji
